@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<domain name="iceforest" >
+	<lpc name="include.h" type="header" />
+	<directory name="room">
+		<lpc name="exit.c" type="roomfile" x="279" y="233" icon="default"/>
+		<lpc name="warproom.c" type="roomfile" x="277" y="151" icon="default"/>
+	</directory>
+	<directory name="inventory">
+		<lpc name="zurakiglove" type="inventory" class="armor" />
+		<lpc name="spacesuit" type="inventory" class="armor" />
+		<lpc name="fak" type="inventory" class="object" />
+		<lpc name="plastic" type="inventory" class="object" />
+		
+	</directory>
+</domain>

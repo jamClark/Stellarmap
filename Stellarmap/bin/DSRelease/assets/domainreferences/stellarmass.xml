@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<domain name="iceforest" >
+	<lpc name="include.h" type="header" />
+	<directory name="room">
+		<lpc name="exit.c" type="roomfile" x="279" y="233" icon="defauklt"/>
+		<lpc name="warproom.c" type="roomfile" x="277" y="151" icon="default"/>
+	</directory>
+	<directory name="doors">
+	</directory>
+	<directory name="inventory">
+		<lpc name="armband" type="inventory" class="armor" />
+		<lpc name="armypants" type="inventory" class="armor" />
+		<lpc name="ascot" type="inventory" class="armor" />
+		<lpc name="backpack" type="inventory" class="armor" />
+		<lpc name="bifocals" type="inventory" class="armor" />
+		
+		<lpc name="blackslacks" type="inventory" class="armor" />
+		<lpc name="bluetie" type="inventory" class="armor" />
+		<lpc name="bomberjacket" type="inventory" class="armor" />
+		<lpc name="bulletproofvest" type="inventory" class="armor" />
+		<lpc name="cargobelt" type="inventory" class="armor" />
+		
+		<lpc name="cargopants" type="inventory" class="armor" />
+		<lpc name="chainmailshirt" type="inventory" class="armor" />
+		<lpc name="converse" type="inventory" class="armor" />
+		<lpc name="crushfedora" type="inventory" class="armor" />
+		<lpc name="dressvest" type="inventory" class="armor" />
+		
+		<lpc name="hikingboot" type="inventory" class="armor" />
+		<lpc name="jacket" type="inventory" class="armor" />
+		<lpc name="jeans" type="inventory" class="armor" />
+		<lpc name="jumpsuit" type="inventory" class="armor" />
+		<lpc name="kevlarglove" type="inventory" class="armor" />
+		
+		<lpc name="kevlarvest" type="inventory" class="armor" />
+		<lpc name="leatherboot" type="inventory" class="armor" />
+		<lpc name="lightballisticvest" type="inventory" class="armor" />
+		<lpc name="pilotgoggles" type="inventory" class="armor" />
+		<lpc name="simplespacesuit" type="inventory" class="armor" />
+		<lpc name="spaceboot" type="inventory" class="armor" />
+		
+		<lpc name="steeltoeboot" type="inventory" class="armor" />
+		<lpc name="tanduster" type="inventory" class="armor" />
+		<lpc name="truckercap" type="inventory" class="armor" />
+		<lpc name="whiteshirt" type="inventory" class="armor" />
+		
+		
+		
+		<lpc name="beer" type="inventory" class="meal" />
+		<lpc name="brasshuman" type="inventory" class="meal" />
+		<lpc name="cheesefries" type="inventory" class="meal" />
+		<lpc name="cuppajoe" type="inventory" class="meal" />
+		<lpc name="gargleblaster" type="inventory" class="meal" />
+		
+		<lpc name="greenmartini" type="inventory" class="meal" />
+		<lpc name="jinniantonik" type="inventory" class="meal" />
+		<lpc name="liquidsnake" type="inventory" class="meal" />
+		<lpc name="sandvich" type="inventory" class="meal" />
+		<lpc name="toast" type="inventory" class="meal" />
+		<lpc name="watercanteen" type="inventory" class="meal" />
+		
+		<lpc name="ammopouchbelt" type="inventory" class="object" />
+		<lpc name="boxofshotgunshells" type="inventory" class="object" />
+		<lpc name="canteen" type="inventory" class="object" />
+		<lpc name="doubleholster" type="inventory" class="object" />
+		<lpc name="newbattery" type="inventory" class="object" />
+		<lpc name="socomsupporessor" type="inventory" class="object" />
+		<lpc name="tacticallegholster" type="inventory" class="object" />
+		<lpc name="watch" type="inventory" class="object" />
+		
+				
+		<lpc name="22longrifle" type="inventory" class="weapon" />
+		<lpc name="45pistol" type="inventory" class="weapon" />
+		<lpc name="carving_knife" type="inventory" class="weapon" />
+		<lpc name="dagger" type="inventory" class="weapon" />
+		<lpc name="dl44" type="inventory" class="weapon" />
+		
+		<lpc name="grenade" type="inventory" class="weapon" />
+		<lpc name="lasrepistol" type="inventory" class="weapon" />
+		<lpc name="prw40" type="inventory" class="weapon" />
+		<lpc name="pump_shotgun" type="inventory" class="weapon" />
+		<lpc name="sharpsword" type="inventory" class="weapon" />
+		
+		<lpc name="single_shotgun" type="inventory" class="weapon" />
+		<lpc name="staff" type="inventory" class="weapon" />
+		<lpc name="stunbaton" type="inventory" class="weapon" />
+		<lpc name="sword" type="inventory" class="weapon" />
+		
+		
+		<lpc name="22longmag" type="inventory" class="weapon" />
+		<lpc name="blaster_cell" type="inventory" class="weapon" />
+		<lpc name="exshell" type="inventory" class="weapon" />
+		<lpc name="plasma_ammo" type="inventory" class="weapon" />
+		<lpc name="plasma_pack" type="inventory" class="weapon" />
+		<lpc name="shell" type="inventory" class="weapon" />
+		<lpc name="smblastercell" type="inventory" class="weapon" />
+		<lpc name="45clip" type="inventory" class="weapon" />
+		
+	</directory>
+</domain>

@@ -1,0 +1,10 @@
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\bin\DSRelease\Stellarmap_HelpFiles.dll
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\bin\DSRelease\Stellarmap_HelpFiles.pdb
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\DSRelease\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\DSRelease\Stellarmap_HelpFiles.dll
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\DSRelease\Stellarmap_HelpFiles.pdb
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap_HelpFiles\bin\DSRelease\Stellarmap_HelpFiles.dll
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap_HelpFiles\bin\DSRelease\Stellarmap_HelpFiles.pdb
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap_HelpFiles\obj\DSRelease\ResolveAssemblyReference.cache
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap_HelpFiles\obj\DSRelease\Stellarmap_HelpFiles.dll
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap_HelpFiles\obj\DSRelease\Stellarmap_HelpFiles.pdb

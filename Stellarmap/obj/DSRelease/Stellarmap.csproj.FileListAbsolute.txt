@@ -1,0 +1,92 @@
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.exe
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.pdb
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.exe
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.pdb
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\LPCParser.dll
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\NHunspell.dll
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\LPCParser.pdb
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.Properties.Resources.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.Check.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CheckList.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboListBuilder.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboMapBuilder.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboSelection.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.DoubleComboMap.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.FunctionControlParam.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ListBuilder.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.MapBuilder.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.app.view.controls.MultiCall.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.NumberEntry.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.RenderTarget.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.RightComboMapBuilder.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.TextDump.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.TextEntry.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.About.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.BasicTextEditor.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateNewRoomForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.DomainOptionsWindow.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.DomainViewForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ExportItemForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ImportExternalDomainForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ProgressModal.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateArmorForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateDoor.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateItemForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateNpcForm.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.exe.manifest
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.application
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.exe.manifest
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.application
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.exe.config
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\ResGen.read.1.tlog
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\ResGen.write.1.tlog
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboSelectionTypeable.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.Radio.resources
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.RadioList.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.exe.config
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.exe
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.pdb
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.exe.manifest
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.application
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.exe
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\Stellarmap.pdb
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\LPCParser.dll
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\NHunspell.dll
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\bin\DSRelease\LPCParser.pdb
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\ResolveAssemblyReference.cache
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.Properties.Resources.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.Check.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CheckList.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboListBuilder.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboMapBuilder.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboSelection.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ComboSelectionTypeable.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.Radio.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.RadioList.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.DoubleComboMap.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.FunctionControlParam.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ListBuilder.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.MapBuilder.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.app.view.controls.MultiCall.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.NumberEntry.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.RenderTarget.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.RightComboMapBuilder.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.TextDump.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.TextEntry.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.About.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.BasicTextEditor.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateNewRoomForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.DomainOptionsWindow.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.DomainViewForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ExportItemForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ImportExternalDomainForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.ProgressModal.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateArmorForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateDoor.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateItemForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.CreateNpcForm.resources
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\ResGen.read.1.tlog
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\ResGen.write.1.tlog
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.exe.manifest
+C:\Users\James\Documents\NetBeansProjects\Stellarmap\Stellarmap\obj\DSRelease\Stellarmap.application

@@ -1,0 +1,10 @@
+C:\Users\James\Desktop\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\bin\Debug\Stellarmap_HelpFiles.dll
+C:\Users\James\Desktop\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\bin\Debug\Stellarmap_HelpFiles.pdb
+C:\Users\James\Desktop\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\Debug\Stellarmap_HelpFiles.dll
+C:\Users\James\Desktop\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\Debug\Stellarmap_HelpFiles.pdb
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\bin\Debug\Stellarmap_HelpFiles.dll
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\bin\Debug\Stellarmap_HelpFiles.pdb
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\Debug\Stellarmap_HelpFiles.dll
+C:\Users\James\Documents\Projects\Stellarmass Project\Stellarmap\Stellarmap_HelpFiles\obj\Debug\Stellarmap_HelpFiles.pdb
